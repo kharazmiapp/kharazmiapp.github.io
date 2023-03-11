@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2051 1080" style="enable-background:new 0 0 2051 1080;" xml:space="preserve">
+<style type="text/css">
+	
+	.st0{
+		fill: #CCCCCC;
+		fill-opacity: 1;
+		stroke:white;
+		stroke-opacity: 1;
+		stroke-width:0.5;
+		}
+	<!-- .st0{fill:#FFFFFF;} -->
+	.st1{fill:#E0DEDE;}
+	.st2{fill:#FFFFFF;stroke:#fff;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#fff;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<g>
+  <path id="bg" title="background" class="st0" d="M293 242h1734v596H293Z" />
+  <path id="r-201" title="classroom" class="st0" d="M1193 602h146v236H1193Z" />
+  <path id="r-202" title="classroom" class="st0" d="M1339 602h146v236H1339Z" />
+  <path id="r-203" title="classroom" class="st0" d="M1485 602h146v236H1485Z" />
+  <path id="r-204" title="classroom" class="st0" d="M1631 682h396v156H1631Z" />
+  <path id="r-209" title="classroom" class="st0" d="M1193 242h146v236H1193Z" />
+  <path id="r-208" title="classroom" class="st0" d="M1339 242h146v236H1339Z" />
+  <path id="r-207" title="classroom" class="st0" d="M1485 242h146v236H1485Z" />
+  <path id="r-206" title="classroom" class="st0" d="M1631 242h396v156H1631Z" />
+  <path id="r-205" title="classroom" class="st0" d="M1789 398h238v284H1789Z" />
+  <path id="r-215" title="studyroom" class="st0" d="M670.5 242h108.75v236H670.5Z" />
+  <path id="r-214" title="studyroom" class="st0" d="M780.24 242h108.76v236H780.24Z" />
+  <path id="r-216" title="studyroom" class="st0" d="M560.75 242h108.76v236H560.75Z" />
+  <path id="r-217" title="studyroom" class="st0" d="M451 242h108.75v236H451Z" />
+  <path id="r-218" title="site" class="st0" d="M55 242h396v236H55Z" />
+  <path id="r-223" title="classroom" class="st0" d="M670.87 602h108.57v236H670.87Z" />
+  <path id="r-224" title="classroom" class="st0" d="M780.43 602h108.57v236H780.43Z" />
+  <path id="r-222" title="janitor-room" class="st0" d="M561.3 602h108.57v236H561.3Z" />
+  <path id="r-221" title="sakoo" class="st0" d="M451.74 602h108.57v236H451.74Z" />
+  <path id="r-220" title="classroom" class="st0" d="M293 602h158.73v236H293Z" />
+  <path id="r-219" title="Professor-room" class="st0" d="M55 478h238v360H55Z" />
+  <path id="r-211" title="َAmoozesh" class="st0" d="M1041 242h76v156H1041Z" />
+  <path id="r-210" title="studyroom" class="st0" d="M1116.93 242h76v156H1116.93Z" />
+  <path id="r-212" title="toilet" class="st0" d="M965 242h76v156H965Z" />
+  <path id="r-213" title="toilet" class="st0" d="M889 242h76v156H889Z" />
+  <path id="patio" title="patio" class="st0" d="M1041 756h76v82H1041Z" />
+  <path id="stair" title="stair" class="st0" d="M1079 644h38v111H1079Z" />
+  <path id="stair" title="stair" class="st0" d="M1041 644h38v111H1041Z" />
+  <path id="stair" title="stair" class="st2" d="M1115.83,681" /> 
+  <line id="stair" title="stair" class="st3" x1="1041" y1="663" x2="1119" y2="663"></line> 
+  <line id="stair" title="stair" class="st3" x1="1041" y1="681.25" x2="1116" y2="681.25"></line> 
+  <line id="stair" title="stair" class="st3" x1="1041" y1="699.5" x2="1116" y2="699.5"></line> 
+  <line id="stair" title="stair" class="st3" x1="1041" y1="717.75" x2="1116" y2="717.75"></line> 
+  <line id="stair" title="stair" class="st3" x1="1040" y1="736" x2="1115" y2="736"></line>
+</g>
+</svg>
