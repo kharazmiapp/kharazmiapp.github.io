@@ -42,14 +42,14 @@
   <path id="210" name="سالن مطالعه" class="st0" d="M1116.93 242h76v156H1116.93Z" />
   <path id="212" name="دستشویی" class="st0" d="M965 242h76v156H965Z" />
   <path id="213" name="دستشویی" class="st0" d="M889 242h76v156H889Z" />
-  <path id="stair" name="" class="st0" d="M1041 756h76v82H1041Z" />
-  <path id="stair" name="" class="st0" d="M1079 644h38v111H1079Z" />
-  <path id="stair" name="" class="st0" d="M1041 644h38v111H1041Z" />
-  <path id="stair" name="" class="st2" d="M1115.83,681" />
-  <line id="stair" name="" class="st3" x1="1041" y1="663" x2="1119" y2="663"></line>
-  <line id="stair" name="" class="st3" x1="1041" y1="681.25" x2="1116" y2="681.25"></line>
-  <line id="stair" name="" class="st3" x1="1041" y1="699.5" x2="1116" y2="699.5"></line>
-  <line id="stair" name="" class="st3" x1="1041" y1="717.75" x2="1116" y2="717.75"></line>
-  <line id="stair" name="" class="st3" x1="1040" y1="736" x2="1115" y2="736"></line>
+  <path id="bg" name="" class="st0" d="M1041 756h76v82H1041Z" />
+  <path id="bg" name="" class="st0" d="M1079 644h38v111H1079Z" />
+  <path id="bg" name="" class="st0" d="M1041 644h38v111H1041Z" />
+  <path id="bg" name="" class="st2" d="M1115.83,681" />
+  <line id="bg" name="" class="st3" x1="1041" y1="663" x2="1119" y2="663"></line>
+  <line id="bg" name="" class="st3" x1="1041" y1="681.25" x2="1116" y2="681.25"></line>
+  <line id="bg" name="" class="st3" x1="1041" y1="699.5" x2="1116" y2="699.5"></line>
+  <line id="bg" name="" class="st3" x1="1041" y1="717.75" x2="1116" y2="717.75"></line>
+  <line id="bg" name="" class="st3" x1="1040" y1="736" x2="1115" y2="736"></line>
 </g>
 </svg>

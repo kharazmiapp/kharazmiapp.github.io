@@ -52,13 +52,13 @@
   <path id="422" name="اتاق 422" class="st0" d="M802.18 242h88.55v236.87H802.18Z" />
   <path id="420" name="اتاق 420" class="st0" d="M890.53 242h136v237H890.53Z" />
   <path id="419" name="اتاق 419" class="st0" d="M1026 242h136v237H1026Z" />
-  <path id="stair" name="" class="st0" d="M1162 756h76v82H1162Z" />
-  <path id="stair" name="" class="st0" d="M1200 644h38v111H1200Z" />
-  <path id="stair" name="" class="st0" d="M1162 644h38v111H1162Z" />
-  <line id="stair" name="" class="st2" x1="1162" y1="663" x2="1240" y2="663"></line>
-  <line id="stair" name="" class="st2" x1="1162" y1="681.25" x2="1237" y2="681.25"></line>
-  <line id="stair" name="" class="st2" x1="1162" y1="699.5" x2="1237" y2="699.5"></line>
-  <line id="stair" name="" class="st2" x1="1162" y1="717.75" x2="1237" y2="717.75"></line>
-  <line id="stair" name="" class="st2" x1="1161" y1="736" x2="1236" y2="736"></line>
+  <path id="bg" name="" class="st0" d="M1162 756h76v82H1162Z" />
+  <path id="bg" name="" class="st0" d="M1200 644h38v111H1200Z" />
+  <path id="bg" name="" class="st0" d="M1162 644h38v111H1162Z" />
+  <line id="bg" name="" class="st2" x1="1162" y1="663" x2="1240" y2="663"></line>
+  <line id="bg" name="" class="st2" x1="1162" y1="681.25" x2="1237" y2="681.25"></line>
+  <line id="bg" name="" class="st2" x1="1162" y1="699.5" x2="1237" y2="699.5"></line>
+  <line id="bg" name="" class="st2" x1="1162" y1="717.75" x2="1237" y2="717.75"></line>
+  <line id="bg" name="" class="st2" x1="1161" y1="736" x2="1236" y2="736"></line>
 </g>
 </svg>
