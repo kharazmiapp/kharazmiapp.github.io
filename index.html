@@ -30,11 +30,12 @@
   <title>kharazmi</title>
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="stylesheet" type="text/css" href="loader_styles.css">
 
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1804994708';
+    var serviceWorkerVersion = '4034697714';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer=""></script>
@@ -42,16 +43,22 @@
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
   <script src="splash/splash.js"></script>
 </head>
+
 <body>
-<div class="center">
-  <div class="sk-chase">
-    <div class="sk-chase-dot"></div>
-    <div class="sk-chase-dot"></div>
-    <div class="sk-chase-dot"></div>
-    <div class="sk-chase-dot"></div>
-    <div class="sk-chase-dot"></div>
-    <div class="sk-chase-dot"></div>
-  </div>
+
+<div class="main-content"  id="loader-content">
+
+      <img src="logo.png" alt="Kharazmi logo">
+      <div class="pl1">
+        <div class="pl1__a"></div>
+        <div class="pl1__b"></div>
+        <div class="pl1__c"></div>
+      </div>
+
+
+
+
+
 </div>
   <script>
     window.addEventListener('load', function(ev) {
