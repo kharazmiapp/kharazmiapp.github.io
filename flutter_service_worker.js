@@ -4,11 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "aa2ad0c21442c5d15a2cf959a61893c5",
-"index.html": "57a0d8cd595463fa819a30eacbd81d6d",
-"/": "57a0d8cd595463fa819a30eacbd81d6d",
+"index.html": "e839b4cb7aa978ad4b4ec499a1924ce7",
+"/": "e839b4cb7aa978ad4b4ec499a1924ce7",
 "styles.css": "e19052e3e22719a1e213f8566ae64c88",
-"main.dart.js": "7145056c1b2e320876e2ca4956cc63fa",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"main.dart.js": "8486f88dc771ea53953c86da6d601f86",
 "favicon.png": "bb11149b58c8923d8e27f9f6fb47945c",
 "logo.png": "d05bb6834b1a2a29292a265023b8aa83",
 "icons/favicon-16x16.png": "bb11149b58c8923d8e27f9f6fb47945c",
@@ -68,11 +67,7 @@ const RESOURCES = {
 "assets/assets/animations/university.svg": "9644fd72337b5424bd8be14840ccfce5",
 "assets/assets/animations/girls_study.png": "106e29de1540df86386a1708f1eb7cec",
 "assets/assets/animations/navigation.png": "2f3cfb4c29354fc06a3fafd98e3c67b8",
-"assets/assets/not_found.png": "1f9faa51af71c488a141c739ffa41545",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/not_found.png": "1f9faa51af71c488a141c739ffa41545"
 };
 
 // The application shell files that are downloaded before a service worker can
